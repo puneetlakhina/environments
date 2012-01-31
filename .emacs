@@ -146,5 +146,6 @@
 
 ;;to set background color to black
 (set-background-color "black")
-
+;;No clutter
+(setq make-backup-files nil)
 
